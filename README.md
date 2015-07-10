@@ -11,7 +11,7 @@ In particular, the developed algorithms include:
 
 3. **Neural Networks**: <ul><li> Neural Network trained using Backpropagation Algorithm;</li> <li> Neural Network trained using Backpropagation Algorithm and mini-batch Stochastic Gradient Descent;</li> <li> Neural Network trained using Backpropagation Algorithm and mini-batch Stochastic Gradient Descent with Momentum.</li></ul>
 
-4. **Clustering**: <ul><li> KMeans Algorithm for [IRIS dataset](https://archive.ics.uci.edu/ml/datasets/Iris) (3 clusters);</li><li> General KMeans Algorithm (tested on IRIS, [WINE](https://archive.ics.uci.edu/ml/datasets/Wine) and [SEGEMENT](https://archive.ics.uci.edu/ml/datasets/Image+Segmentation) dataset).</li></ul>
+4. **Clustering**: <ul><li> KMeans Algorithm for [IRIS dataset](https://archive.ics.uci.edu/ml/datasets/Iris) (3 clusters);</li><li> General KMeans Algorithm (tested on IRIS, [WINE](https://archive.ics.uci.edu/ml/datasets/Wine) and [SEGMENT](https://archive.ics.uci.edu/ml/datasets/Image+Segmentation) dataset).</li></ul>
 
 5. **Evolutionary Algorithms**: <ul><li> Accelerated [Particle Swarm Optimization](https://en.wikipedia.org/wiki/Particle_swarm_optimization);</li><li> [Ant Colony Optmization](http://www.scholarpedia.org/article/Ant_colony_optimization), early work, developed back in 2014; </li><li> [Firefly Algorithm](https://en.wikipedia.org/wiki/Firefly_algorithm), also developed in 2014.</li></ul>
 
